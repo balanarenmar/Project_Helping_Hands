@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+    ~ Copyright 2022 The TensorFlow Authors. All Rights Reserved.
+    ~
+    ~ Licensed under the Apache License, Version 2.0 (the "License");
+    ~ you may not use this file except in compliance with the License.
+    ~ You may obtain a copy of the License at
+    ~
+    ~       http://www.apache.org/licenses/LICENSE-2.0
+    ~
+    ~ Unless required by applicable law or agreed to in writing, software
+    ~ distributed under the License is distributed on an "AS IS" BASIS,
+    ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    ~ See the License for the specific language governing permissions and
+    ~ limitations under the License.
+-->
+<resources>
+    <string name="app_name">Helping Hands (ASL detector)</string>
+
+    <string name="alt_bottom_sheet_chevron">Bottom sheet expandable indicator</string>
+
+    <string name="alt_bottom_sheet_max_results_button_minus">Decreasing maxium detected results
+        button</string>
+    <string name="alt_bottom_sheet_max_results_button_plus">Increasing maxium detected results
+        button</string>
+    <string name="alt_bottom_sheet_threshold_button_minus">Decreasing threshold of detected object
+        results button</string>
+    <string name="alt_bottom_sheet_threshold_button_plus">Increasing threshold of detected object
+        results button</string>
+    <string name="alt_bottom_sheet_thread_button_minus">Decrease the number of threads used</string>
+    <string name="alt_bottom_sheet_thread_button_plus">Increase the number of threads used</string>
+
+    <string name="label_interence_time">Inference Time</string>
+    <string name="label_fps">Frames per Second</string>
+    <string name="label_confidence_threshold">Threshold</string>
+    <string name="label_max_results">Max Results</string>
+    <string name="label_threads">Number of Threads</string>
+    <string name="label_delegate">Delegate</string>
+    <string name="label_models">ML Model</string>
+
+    <string-array name="delegate_spinner_titles">
+        <item>CPU</item>
+        <item>GPU</item>
+        <item>NNAPI</item>
+    </string-array>
+
+    <string-array name="models_spinner_titles">
+        <item>Custom Model</item>
+        <item>ASL GESTURES</item>
+        <item>ASL ALPHABET</item>
+        <item>ASL NUMBERS</item>
+        <item>ROCK PAPER SCISSORS</item>
+    </string-array>
+
+    <string name="affirmation1">I am strong.</string>
+    <string name="affirmation2">I believe in myself.</string>
+    <string name="affirmation3">Each day is a new opportunity to grow and be a better version of myself.</string>
+    <string name="affirmation4">Every challenge in my life is an opportunity to learn from.</string>
+
+    <string name="class_phrase1">Goodbye</string>
+    <string name="class_phrase2">Hello</string>
+    <string name="class_phrase3">I Love You</string>
+    <string name="class_phrase4">No</string>
+    <string name="class_phrase5">Thank You</string>
+    <string name="class_phrase6">Yes</string>
+
+    <string name="class_alphabet1">A</string>
+    <string name="class_alphabet2">B</string>
+    <string name="class_alphabet3">C</string>
+    <string name="class_alphabet4">D</string>
+    <string name="class_alphabet5">E</string>
+    <string name="class_alphabet6">F</string>
+    <string name="class_alphabet7">G</string>
+    <string name="class_alphabet8">H</string>
+    <string name="class_alphabet9">I</string>
+    <string name="class_alphabet10">J</string>
+    <string name="class_alphabet11">K</string>
+    <string name="class_alphabet12">L</string>
+    <string name="class_alphabet13">M</string>
+    <string name="class_alphabet14">N</string>
+    <string name="class_alphabet15">O</string>
+    <string name="class_alphabet16">P</string>
+    <string name="class_alphabet17">Q</string>
+    <string name="class_alphabet18">R</string>
+    <string name="class_alphabet19">S</string>
+    <string name="class_alphabet20">T</string>
+    <string name="class_alphabet21">U</string>
+    <string name="class_alphabet22">V</string>
+    <string name="class_alphabet23">W</string>
+    <string name="class_alphabet24">X</string>
+    <string name="class_alphabet25">Y</string>
+    <string name="class_alphabet26">Z</string>
+
+    <string name="class_num1">1</string>
+    <string name="class_num2">2</string>
+    <string name="class_num3">3</string>
+    <string name="class_num4">4</string>
+    <string name="class_num5">5</string>
+    <string name="class_num6">6</string>
+    <string name="class_num7">7</string>
+    <string name="class_num8">8</string>
+    <string name="class_num9">9</string>
+    <string name="class_num10">10</string>
+
+    <string name="class_rock">Rock</string>
+    <string name="class_paper">Paper</string>
+    <string name="class_scissors">Scissors</string>
+</resources>
