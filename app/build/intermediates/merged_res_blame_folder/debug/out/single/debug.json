@@ -56,6 +56,10 @@
         "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\merged_res\\debug\\raw_start.mp3.flat",
+        "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\raw\\start.mp3"
+    },
+    {
         "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },

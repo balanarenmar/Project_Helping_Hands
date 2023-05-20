@@ -2545,7 +2545,6 @@ id SHOW_ALL
 id SHOW_PATH
 id SHOW_PROGRESS
 id SYM
-id SplashScreenImage
 id TOP_END
 id TOP_START
 id accelerate
@@ -2613,6 +2612,7 @@ id androidx_window_activity_scope
 id animateToEnd
 id animateToStart
 id appBarLayout
+id app_logo
 id arc
 id asConfigured
 id async
@@ -3231,6 +3231,7 @@ mipmap ic_launcher_adaptive_fore
 mipmap ic_launcher_round
 navigation nav_graph
 plurals mtrl_badge_content_description
+raw start
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

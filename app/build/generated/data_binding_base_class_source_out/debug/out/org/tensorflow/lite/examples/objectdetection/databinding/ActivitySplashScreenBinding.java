@@ -20,12 +20,12 @@ public final class ActivitySplashScreenBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final ImageView SplashScreenImage;
+  public final ImageView appLogo;
 
   private ActivitySplashScreenBinding(@NonNull ConstraintLayout rootView,
-      @NonNull ImageView SplashScreenImage) {
+      @NonNull ImageView appLogo) {
     this.rootView = rootView;
-    this.SplashScreenImage = SplashScreenImage;
+    this.appLogo = appLogo;
   }
 
   @Override
@@ -55,13 +55,13 @@ public final class ActivitySplashScreenBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.SplashScreenImage;
-      ImageView SplashScreenImage = ViewBindings.findChildViewById(rootView, id);
-      if (SplashScreenImage == null) {
+      id = R.id.app_logo;
+      ImageView appLogo = ViewBindings.findChildViewById(rootView, id);
+      if (appLogo == null) {
         break missingId;
       }
 
-      return new ActivitySplashScreenBinding((ConstraintLayout) rootView, SplashScreenImage);
+      return new ActivitySplashScreenBinding((ConstraintLayout) rootView, appLogo);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

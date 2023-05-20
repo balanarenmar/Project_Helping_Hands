@@ -63,9 +63,7 @@
         android:layout_width="258dp"
         android:layout_height="58dp"
         android:gravity="center"
-        android:text="“Project Helping Hands” for detecting the hand
-signs or body language of the user
-and translating it into text."
+        android:text="“Project Helping Hands” for detecting ASL hand signs and translating it into text."
         android:textColor="#000"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"

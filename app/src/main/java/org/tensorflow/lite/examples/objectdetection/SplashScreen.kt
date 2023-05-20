@@ -1,6 +1,7 @@
 package org.tensorflow.lite.examples.objectdetection
 
 import android.content.Intent
+import android.media.MediaPlayer
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
@@ -10,6 +11,8 @@ import androidx.appcompat.app.AppCompatActivity
 
 @Suppress("DEPRECATION")
 class SplashScreen : AppCompatActivity() {
+
+    private lateinit var mediaPlayer: MediaPlayer
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash_screen)
@@ -20,6 +23,13 @@ class SplashScreen : AppCompatActivity() {
             WindowManager.LayoutParams.FLAG_FULLSCREEN,
             WindowManager.LayoutParams.FLAG_FULLSCREEN
         )
+
+        // Initialize the MediaPlayer
+        mediaPlayer = MediaPlayer.create(this, R.raw.rickoll)
+        // Start playing the sound effect
+        mediaPlayer.start()
+        // Play for the duration
+        val soundDuration = mediaPlayer.duration
 
         // Purposefully delay screen. argument of Intent is the target activity
 
