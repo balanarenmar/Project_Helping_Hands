@@ -7,273 +7,268 @@
 7
 8    <uses-sdk
 9        android:minSdkVersion="21"
-9-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml
+9-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
 10        android:targetSdkVersion="32" />
-10-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml
+10-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
 11    <!-- Enable instant app support -->
 12    <dist:module dist:instant="true" /> <!-- Declare features -->
-12-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:7:5-40
-12-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:7:18-37
+12-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:7:5-40
+12-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:7:18-37
 13    <uses-feature android:name="android.hardware.camera" /> <!-- Declare permissions -->
-13-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:8:5-60
-13-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:8:19-57
+13-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:8:5-60
+13-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:8:19-57
 14    <uses-permission android:name="android.permission.CAMERA" />
-14-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:9:5-65
-14-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:9:22-62
+14-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:9:5-65
+14-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:9:22-62
 15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 16    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
 17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 18
 19    <application
-19-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:11:5-118:19
+19-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:11:5-115:19
 20        android:allowBackup="true"
-20-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:12:9-35
+20-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:12:9-35
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 21-->[androidx.core:core:1.6.0] C:\Users\USER\.gradle\caches\transforms-3\5a87cf4110f68e1cf82394b1fba8462d\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 22        android:debuggable="true"
 23        android:icon="@mipmap/ic_launcher"
-23-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:13:9-43
+23-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:13:9-43
 24        android:label="@string/app_name"
-24-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:14:9-41
+24-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:14:9-41
 25        android:roundIcon="@mipmap/ic_launcher_round"
-25-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:15:9-54
-26        android:taskAffinity="" >
-26-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:16:9-32
-27        <activity
-27-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:18:9-44:20
-28            android:name="org.tensorflow.lite.examples.objectdetection.MainActivity"
-28-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:19:13-41
-29            android:clearTaskOnLaunch="true"
-29-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:20:13-45
-30            android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize"
-30-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:21:13-91
-31            android:exported="true"
-31-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:22:13-36
-32            android:icon="@mipmap/ic_launcher"
-32-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:23:13-47
-33            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.MenuScreen"
-33-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:25:13-53
-34            android:resizeableActivity="true"
-34-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:26:13-46
-35            android:rotationAnimation="seamless"
-35-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:27:13-49
-36            android:roundIcon="@mipmap/ic_launcher_round"
-36-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:24:13-58
-37            android:theme="@style/AppTheme" >
-37-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:28:13-44
-38
-39            <!--
-40            Main app intent filter
-41
-42            <intent-filter>
-43                <action android:name="android.intent.action.MAIN" />
-44                <category android:name="android.intent.category.LAUNCHER" />
-45            </intent-filter>
-46            -->
+25-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:15:9-54
+26        android:taskAffinity=""
+26-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:16:9-32
+27        android:testOnly="true" >
+28        <activity
+28-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:18:9-22:71
+29            android:name="org.tensorflow.lite.examples.objectdetection.MainMenu"
+29-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:19:13-37
+30            android:exported="false"
+30-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:20:13-37
+31            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.MainMenu"
+31-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:21:13-51
+32            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+32-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:22:13-69
+33        <activity
+33-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:24:9-51:20
+34            android:name="org.tensorflow.lite.examples.objectdetection.MainActivity"
+34-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:25:13-41
+35            android:clearTaskOnLaunch="true"
+35-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:26:13-45
+36            android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize"
+36-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:27:13-91
+37            android:exported="true"
+37-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:28:13-36
+38            android:icon="@mipmap/ic_launcher"
+38-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:29:13-47
+39            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.MenuScreen"
+39-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:30:13-53
+40            android:resizeableActivity="true"
+40-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:31:13-46
+41            android:rotationAnimation="seamless"
+41-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:32:13-49
+42            android:roundIcon="@mipmap/ic_launcher_round"
+42-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:33:13-58
+43            android:theme="@style/AppTheme" >
+43-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:34:13-44
+44
+45            <!--
+46            Main app intent filter
 47
-48
-49            <!-- Declare notch support -->
-50            <meta-data
-50-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:41:13-43:40
-51                android:name="android.notch_support"
-51-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:42:17-53
-52                android:value="true" />
-52-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:43:17-37
-53        </activity>
-54        <activity
-54-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:45:9-53:20
-55            android:name="org.tensorflow.lite.examples.objectdetection.SplashScreen"
-55-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:46:13-41
-56            android:exported="true"
-56-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:47:13-36
-57            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
-57-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:48:13-69
-58            <intent-filter>
-58-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:49:13-52:29
-59                <action android:name="android.intent.action.MAIN" />
-59-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:50:17-69
-59-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:50:25-66
-60
-61                <category android:name="android.intent.category.LAUNCHER" />
-61-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:51:17-77
-61-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:51:27-74
-62            </intent-filter>
-63        </activity>
-64        <activity
-64-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:54:9-61:20
-65            android:name="org.tensorflow.lite.examples.objectdetection.ClassesScreen"
-65-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:55:13-42
-66            android:exported="true"
-66-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:56:13-36
-67            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.ClassesScreen"
-67-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:57:13-56
-68            android:theme="@style/Theme.Affirmations" >
-68-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:58:13-54
-69
-70            <!-- android:theme="@style/Theme.AppCompat.Light.NoActionBar"> -->
-71            <!-- android:theme="@style/Theme.Affirmations"> -->
-72        </activity>
-73        <activity
-73-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:62:9-70:20
-74            android:name="org.tensorflow.lite.examples.objectdetection.ClassesAlphabet"
-74-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:63:13-44
-75            android:exported="true"
-75-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:64:13-36
-76            android:label="ASL Alphabet"
-76-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:67:13-41
-77            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.ClassesScreen"
-77-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:65:13-56
-78            android:theme="@style/Theme.Affirmations" >
-78-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:66:13-54
-79
-80            <!-- android:theme="@style/Theme.AppCompat.Light.NoActionBar"> -->
-81            <!-- android:theme="@style/Theme.Affirmations"> -->
-82        </activity>
-83        <activity
-83-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:71:9-80:20
-84            android:name="org.tensorflow.lite.examples.objectdetection.ClassesGame"
-84-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:72:13-40
-85            android:exported="true"
-85-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:73:13-36
-86            android:label="Rochambeau"
-86-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:76:13-39
-87            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.ClassesScreen"
-87-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:74:13-56
-88            android:theme="@style/Theme.Affirmations" >
-88-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:75:13-54
-89
-90            <!-- android:theme="@style/Theme.AppCompat.Light.NoActionBar"> -->
-91            <!-- android:theme="@style/Theme.Affirmations"> -->
-92        </activity>
-93        <activity
-93-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:81:9-89:20
-94            android:name="org.tensorflow.lite.examples.objectdetection.ClassesNumber"
-94-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:82:13-42
-95            android:exported="true"
-95-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:83:13-36
-96            android:label="ASL Numbers"
-96-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:86:13-40
-97            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.ClassesScreen"
-97-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:84:13-56
-98            android:theme="@style/Theme.Affirmations" >
-98-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:85:13-54
-99
-100            <!-- android:theme="@style/Theme.AppCompat.Light.NoActionBar"> -->
-101            <!-- android:theme="@style/Theme.Affirmations"> -->
-102        </activity>
-103        <activity
-103-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:91:9-99:20
-104            android:name="org.tensorflow.lite.examples.objectdetection.ClassesPhrase"
-104-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:92:13-42
-105            android:exported="true"
-105-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:93:13-36
-106            android:label="ASL Common Phrases"
-106-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:96:13-47
-107            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.ClassesScreen"
-107-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:94:13-56
-108            android:theme="@style/Theme.Affirmations" >
-108-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:95:13-54
-109
-110            <!-- android:theme="@style/Theme.AppCompat.Light.NoActionBar">  "@style/Theme.Affirmations" -->
-111            <!-- android:theme="@style/Theme.Affirmations"> -->
-112        </activity>
-113        <activity
-113-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:104:9-109:20
-114            android:name="org.tensorflow.lite.examples.objectdetection.MenuScreen"
-114-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:105:13-39
-115            android:exported="true"
-115-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:106:13-36
-116            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.MenuScreen"
-116-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:108:13-53
-117            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
-117-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:107:13-69
-118        </activity>
-119        <activity
-119-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:111:9-116:20
-120            android:name="org.tensorflow.lite.examples.objectdetection.ClassTabs"
-120-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:112:13-38
-121            android:exported="true"
-121-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:113:13-36
-122            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.MenuScreen"
-122-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:115:13-53
-123            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
-123-->C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:114:13-69
-124        </activity>
-125
-126        <uses-library
-126-->[androidx.window:window:1.0.0-alpha09] C:\Users\USER\.gradle\caches\transforms-3\a8de75245e5900cbaae160c8381d134e\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:25:9-27:40
-127            android:name="androidx.window.extensions"
-127-->[androidx.window:window:1.0.0-alpha09] C:\Users\USER\.gradle\caches\transforms-3\a8de75245e5900cbaae160c8381d134e\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:26:13-54
-128            android:required="false" />
-128-->[androidx.window:window:1.0.0-alpha09] C:\Users\USER\.gradle\caches\transforms-3\a8de75245e5900cbaae160c8381d134e\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:27:13-37
-129        <uses-library
-129-->[androidx.window:window:1.0.0-alpha09] C:\Users\USER\.gradle\caches\transforms-3\a8de75245e5900cbaae160c8381d134e\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:28:9-30:40
-130            android:name="androidx.window.sidecar"
-130-->[androidx.window:window:1.0.0-alpha09] C:\Users\USER\.gradle\caches\transforms-3\a8de75245e5900cbaae160c8381d134e\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:29:13-51
-131            android:required="false" />
-131-->[androidx.window:window:1.0.0-alpha09] C:\Users\USER\.gradle\caches\transforms-3\a8de75245e5900cbaae160c8381d134e\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:30:13-37
-132
-133        <service
-133-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\USER\.gradle\caches\transforms-3\780dd7349eefd1b7172c3ad2acc3c36e\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:26:9-35:19
-134            android:name="androidx.camera.core.impl.MetadataHolderService"
-134-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\USER\.gradle\caches\transforms-3\780dd7349eefd1b7172c3ad2acc3c36e\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:27:13-75
-135            android:enabled="false"
-135-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\USER\.gradle\caches\transforms-3\780dd7349eefd1b7172c3ad2acc3c36e\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:28:13-36
-136            android:exported="false" >
-136-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\USER\.gradle\caches\transforms-3\780dd7349eefd1b7172c3ad2acc3c36e\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:29:13-37
-137            <meta-data
-137-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\USER\.gradle\caches\transforms-3\780dd7349eefd1b7172c3ad2acc3c36e\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:32:13-34:89
-138                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
-138-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\USER\.gradle\caches\transforms-3\780dd7349eefd1b7172c3ad2acc3c36e\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:33:17-103
-139                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
-139-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\USER\.gradle\caches\transforms-3\780dd7349eefd1b7172c3ad2acc3c36e\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:34:17-86
-140        </service>
-141
+48            <intent-filter>
+49                <action android:name="android.intent.action.MAIN" />
+50                <category android:name="android.intent.category.LAUNCHER" />
+51            </intent-filter>
+52            -->
+53
+54
+55            <!-- Declare notch support -->
+56            <meta-data
+56-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:48:13-50:40
+57                android:name="android.notch_support"
+57-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:49:17-53
+58                android:value="true" />
+58-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:50:17-37
+59        </activity>
+60        <activity
+60-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:52:9-61:20
+61            android:name="org.tensorflow.lite.examples.objectdetection.SplashScreen"
+61-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:53:13-41
+62            android:exported="true"
+62-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:54:13-36
+63            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+63-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:55:13-69
+64            <intent-filter>
+64-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:56:13-60:29
+65                <action android:name="android.intent.action.MAIN" />
+65-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:57:17-69
+65-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:57:25-66
+66
+67                <category android:name="android.intent.category.LAUNCHER" />
+67-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:59:17-77
+67-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:59:27-74
+68            </intent-filter>
+69        </activity>
+70        <activity
+70-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:63:9-72:20
+71            android:name="org.tensorflow.lite.examples.objectdetection.ClassesAlphabet"
+71-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:64:13-44
+72            android:exported="true"
+72-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:65:13-36
+73            android:label="ASL Alphabet"
+73-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:66:13-41
+74            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.MainMenu"
+74-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:67:13-51
+75            android:theme="@style/Theme.Affirmations" >
+75-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:68:13-54
+76
+77            <!-- android:theme="@style/Theme.AppCompat.Light.NoActionBar"> -->
+78            <!-- android:theme="@style/Theme.Affirmations"> -->
+79        </activity>
+80        <activity
+80-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:73:9-82:20
+81            android:name="org.tensorflow.lite.examples.objectdetection.ClassesGame"
+81-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:74:13-40
+82            android:exported="true"
+82-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:75:13-36
+83            android:label="Rochambeau"
+83-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:76:13-39
+84            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.MainMenu"
+84-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:77:13-51
+85            android:theme="@style/Theme.Affirmations" >
+85-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:78:13-54
+86
+87            <!-- android:theme="@style/Theme.AppCompat.Light.NoActionBar"> -->
+88            <!-- android:theme="@style/Theme.Affirmations"> -->
+89        </activity>
+90        <activity
+90-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:83:9-92:20
+91            android:name="org.tensorflow.lite.examples.objectdetection.ClassesNumber"
+91-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:84:13-42
+92            android:exported="true"
+92-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:85:13-36
+93            android:label="ASL Numbers"
+93-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:86:13-40
+94            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.MainMenu"
+94-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:87:13-51
+95            android:theme="@style/Theme.Affirmations" >
+95-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:88:13-54
+96
+97            <!-- android:theme="@style/Theme.AppCompat.Light.NoActionBar"> -->
+98            <!-- android:theme="@style/Theme.Affirmations"> -->
+99        </activity>
+100        <activity
+100-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:93:9-102:20
+101            android:name="org.tensorflow.lite.examples.objectdetection.ClassesPhrase"
+101-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:94:13-42
+102            android:exported="true"
+102-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:95:13-36
+103            android:label="ASL Common Phrases"
+103-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:96:13-47
+104            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.MainMenu"
+104-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:97:13-51
+105            android:theme="@style/Theme.Affirmations" >
+105-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:98:13-54
+106
+107            <!-- android:theme="@style/Theme.AppCompat.Light.NoActionBar">  "@style/Theme.Affirmations" -->
+108            <!-- android:theme="@style/Theme.Affirmations"> -->
+109        </activity>
+110        <activity
+110-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:103:9-107:81
+111            android:name="org.tensorflow.lite.examples.objectdetection.MenuScreen"
+111-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:104:13-39
+112            android:exported="true"
+112-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:105:13-36
+113            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.MenuScreen"
+113-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:106:13-53
+114            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+114-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:107:13-69
+115        <activity
+115-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:108:9-112:81
+116            android:name="org.tensorflow.lite.examples.objectdetection.ClassTabs"
+116-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:109:13-38
+117            android:exported="true"
+117-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:110:13-36
+118            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.MenuScreen"
+118-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:111:13-53
+119            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+119-->C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:112:13-69
+120
+121        <uses-library
+121-->[androidx.window:window:1.0.0-alpha09] C:\Users\USER\.gradle\caches\transforms-3\a8de75245e5900cbaae160c8381d134e\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:25:9-27:40
+122            android:name="androidx.window.extensions"
+122-->[androidx.window:window:1.0.0-alpha09] C:\Users\USER\.gradle\caches\transforms-3\a8de75245e5900cbaae160c8381d134e\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:26:13-54
+123            android:required="false" />
+123-->[androidx.window:window:1.0.0-alpha09] C:\Users\USER\.gradle\caches\transforms-3\a8de75245e5900cbaae160c8381d134e\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:27:13-37
+124        <uses-library
+124-->[androidx.window:window:1.0.0-alpha09] C:\Users\USER\.gradle\caches\transforms-3\a8de75245e5900cbaae160c8381d134e\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:28:9-30:40
+125            android:name="androidx.window.sidecar"
+125-->[androidx.window:window:1.0.0-alpha09] C:\Users\USER\.gradle\caches\transforms-3\a8de75245e5900cbaae160c8381d134e\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:29:13-51
+126            android:required="false" />
+126-->[androidx.window:window:1.0.0-alpha09] C:\Users\USER\.gradle\caches\transforms-3\a8de75245e5900cbaae160c8381d134e\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:30:13-37
+127
+128        <service
+128-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\USER\.gradle\caches\transforms-3\780dd7349eefd1b7172c3ad2acc3c36e\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:26:9-35:19
+129            android:name="androidx.camera.core.impl.MetadataHolderService"
+129-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\USER\.gradle\caches\transforms-3\780dd7349eefd1b7172c3ad2acc3c36e\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:27:13-75
+130            android:enabled="false"
+130-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\USER\.gradle\caches\transforms-3\780dd7349eefd1b7172c3ad2acc3c36e\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:28:13-36
+131            android:exported="false" >
+131-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\USER\.gradle\caches\transforms-3\780dd7349eefd1b7172c3ad2acc3c36e\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:29:13-37
+132            <meta-data
+132-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\USER\.gradle\caches\transforms-3\780dd7349eefd1b7172c3ad2acc3c36e\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:32:13-34:89
+133                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+133-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\USER\.gradle\caches\transforms-3\780dd7349eefd1b7172c3ad2acc3c36e\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:33:17-103
+134                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+134-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\USER\.gradle\caches\transforms-3\780dd7349eefd1b7172c3ad2acc3c36e\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:34:17-86
+135        </service>
+136
+137        <provider
+137-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\USER\.gradle\caches\transforms-3\6bc45f26fe52c9ef5ffcdd5432f82849\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+138            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+138-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\USER\.gradle\caches\transforms-3\6bc45f26fe52c9ef5ffcdd5432f82849\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+139            android:authorities="org.tensorflow.lite.examples.objectdetection.lifecycle-process"
+139-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\USER\.gradle\caches\transforms-3\6bc45f26fe52c9ef5ffcdd5432f82849\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+140            android:exported="false"
+140-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\USER\.gradle\caches\transforms-3\6bc45f26fe52c9ef5ffcdd5432f82849\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+141            android:multiprocess="true" />
+141-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\USER\.gradle\caches\transforms-3\6bc45f26fe52c9ef5ffcdd5432f82849\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
 142        <provider
-142-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\USER\.gradle\caches\transforms-3\6bc45f26fe52c9ef5ffcdd5432f82849\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
-143            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-143-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\USER\.gradle\caches\transforms-3\6bc45f26fe52c9ef5ffcdd5432f82849\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
-144            android:authorities="org.tensorflow.lite.examples.objectdetection.lifecycle-process"
-144-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\USER\.gradle\caches\transforms-3\6bc45f26fe52c9ef5ffcdd5432f82849\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
-145            android:exported="false"
-145-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\USER\.gradle\caches\transforms-3\6bc45f26fe52c9ef5ffcdd5432f82849\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
-146            android:multiprocess="true" />
-146-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\USER\.gradle\caches\transforms-3\6bc45f26fe52c9ef5ffcdd5432f82849\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
-147        <provider
-147-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:26:9-34:20
-148            android:name="androidx.startup.InitializationProvider"
-148-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:27:13-67
-149            android:authorities="org.tensorflow.lite.examples.objectdetection.androidx-startup"
-149-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:28:13-68
-150            android:exported="false" >
-150-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:29:13-37
-151            <meta-data
-151-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:31:13-33:52
-152                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-152-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:32:17-85
-153                android:value="androidx.startup" />
-153-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:33:17-49
-154        </provider>
-155
-156        <receiver
-156-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:36:9-45:20
-157            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-157-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:37:13-76
-158            android:directBootAware="false"
-158-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:38:13-44
-159            android:enabled="true"
-159-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:39:13-35
-160            android:exported="true"
-160-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:40:13-36
-161            android:permission="android.permission.DUMP" >
-161-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:41:13-57
-162            <intent-filter>
-162-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:42:13-44:29
-163                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-163-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:43:17-91
-163-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:43:25-88
-164            </intent-filter>
-165        </receiver>
-166    </application>
-167
-168</manifest>
+142-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:26:9-34:20
+143            android:name="androidx.startup.InitializationProvider"
+143-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:27:13-67
+144            android:authorities="org.tensorflow.lite.examples.objectdetection.androidx-startup"
+144-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:28:13-68
+145            android:exported="false" >
+145-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:29:13-37
+146            <meta-data
+146-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:31:13-33:52
+147                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+147-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:32:17-85
+148                android:value="androidx.startup" />
+148-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:33:17-49
+149        </provider>
+150
+151        <receiver
+151-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:36:9-45:20
+152            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+152-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:37:13-76
+153            android:directBootAware="false"
+153-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:38:13-44
+154            android:enabled="true"
+154-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:39:13-35
+155            android:exported="true"
+155-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:40:13-36
+156            android:permission="android.permission.DUMP" >
+156-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:41:13-57
+157            <intent-filter>
+157-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:42:13-44:29
+158                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+158-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:43:17-91
+158-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\8319e3e1f654595c24e69517d780f5f2\transformed\jetified-profileinstaller-1.1.0\AndroidManifest.xml:43:25-88
+159            </intent-filter>
+160        </receiver>
+161    </application>
+162
+163</manifest>

@@ -11,16 +11,15 @@ import org.tensorflow.lite.examples.objectdetection.data.Datasource
 class ClassesPhrase : AppCompatActivity() {
     private lateinit var searchView: SearchView
     private val myDataset = Datasource().loadPhrase()
-    private val recyclerView = findViewById<RecyclerView>(R.id.recycler_view)
     private lateinit var adapter: ItemAdapter
+    private lateinit var recyclerView: RecyclerView // Declare recyclerView as a member variable
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.features_screen)
 
         // Initialize data.
-        val myDataset = Datasource().loadAlphabet()
-        val recyclerView = findViewById<RecyclerView>(R.id.recycler_view)
+        recyclerView = findViewById<RecyclerView>(R.id.recycler_view)
         adapter = ItemAdapter(this)
 
         recyclerView.adapter = adapter

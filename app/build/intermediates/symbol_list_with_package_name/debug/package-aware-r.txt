@@ -2410,6 +2410,9 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable btn_bg_dark_red
+drawable btn_bg_red
+drawable btn_bg_white
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2524,6 +2527,7 @@ drawable paper
 drawable rock
 drawable salamat
 drawable scissors
+drawable splash_screen
 drawable test_custom_background
 drawable tfl_logo
 drawable tooltip_frame_dark
@@ -2922,6 +2926,7 @@ id snapMargins
 id spacer
 id special_effects_controller_view_tag
 id spinner_model
+id splash_screen
 id spline
 id split_action_bar
 id spread
@@ -2967,6 +2972,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
 id textWatcher
 id text_input_end_icon
 id text_input_error_icon
@@ -3005,6 +3011,11 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id vdgb_Gestures
+id vdgb_alpha
+id vdgb_num
+id vdgb_prase
+id vdgb_rps
 id viewPager
 id view_finder
 id view_offset_helper
@@ -3114,6 +3125,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_main_menu
 layout activity_menu_screen
 layout activity_splash_screen
 layout activity_tabs
@@ -3133,6 +3145,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout features_no_search_screen
 layout features_screen
 layout fragment_camera
 layout fragment_code
@@ -3158,6 +3171,7 @@ layout material_time_input
 layout material_timepicker
 layout material_timepicker_dialog
 layout material_timepicker_textinput_display
+layout modal_view_models
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
 layout mtrl_alert_dialog_title

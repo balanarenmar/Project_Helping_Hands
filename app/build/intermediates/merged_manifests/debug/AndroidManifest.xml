@@ -23,7 +23,13 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
-        android:taskAffinity="" >
+        android:taskAffinity=""
+        android:testOnly="true" >
+        <activity
+            android:name="org.tensorflow.lite.examples.objectdetection.MainMenu"
+            android:exported="false"
+            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.MainMenu"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name="org.tensorflow.lite.examples.objectdetection.MainActivity"
             android:clearTaskOnLaunch="true"
@@ -62,19 +68,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="org.tensorflow.lite.examples.objectdetection.ClassesScreen"
-            android:exported="true"
-            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.ClassesScreen"
-            android:theme="@style/Theme.Affirmations" >
-
-            <!-- android:theme="@style/Theme.AppCompat.Light.NoActionBar"> -->
-            <!-- android:theme="@style/Theme.Affirmations"> -->
-        </activity>
-        <activity
             android:name="org.tensorflow.lite.examples.objectdetection.ClassesAlphabet"
             android:exported="true"
             android:label="ASL Alphabet"
-            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.ClassesScreen"
+            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.MainMenu"
             android:theme="@style/Theme.Affirmations" >
 
             <!-- android:theme="@style/Theme.AppCompat.Light.NoActionBar"> -->
@@ -84,7 +81,7 @@
             android:name="org.tensorflow.lite.examples.objectdetection.ClassesGame"
             android:exported="true"
             android:label="Rochambeau"
-            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.ClassesScreen"
+            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.MainMenu"
             android:theme="@style/Theme.Affirmations" >
 
             <!-- android:theme="@style/Theme.AppCompat.Light.NoActionBar"> -->
@@ -94,7 +91,7 @@
             android:name="org.tensorflow.lite.examples.objectdetection.ClassesNumber"
             android:exported="true"
             android:label="ASL Numbers"
-            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.ClassesScreen"
+            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.MainMenu"
             android:theme="@style/Theme.Affirmations" >
 
             <!-- android:theme="@style/Theme.AppCompat.Light.NoActionBar"> -->
@@ -104,7 +101,7 @@
             android:name="org.tensorflow.lite.examples.objectdetection.ClassesPhrase"
             android:exported="true"
             android:label="ASL Common Phrases"
-            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.ClassesScreen"
+            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.MainMenu"
             android:theme="@style/Theme.Affirmations" >
 
             <!-- android:theme="@style/Theme.AppCompat.Light.NoActionBar">  "@style/Theme.Affirmations" -->
@@ -114,14 +111,12 @@
             android:name="org.tensorflow.lite.examples.objectdetection.MenuScreen"
             android:exported="true"
             android:parentActivityName="org.tensorflow.lite.examples.objectdetection.MenuScreen"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
-        </activity>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name="org.tensorflow.lite.examples.objectdetection.ClassTabs"
             android:exported="true"
             android:parentActivityName="org.tensorflow.lite.examples.objectdetection.MenuScreen"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
-        </activity>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
 
         <uses-library
             android:name="androidx.window.extensions"

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".MainMenu" >
+
+    <Button
+        android:id="@+id/sdb_Detect"
+        android:layout_width="146dp"
+        android:layout_height="66dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/btn_bg_red"
+        android:text="Start\nDetection"
+        android:textColor="#FFF"
+        app:backgroundTint="@null"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/vdgb_Gestures"
+        android:layout_width="196dp"
+        android:layout_height="66dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/btn_bg_dark_red"
+        android:text="View Detectable\nGestures"
+        android:textColor="#FFF"
+        app:backgroundTint="@null"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toEndOf="@+id/sdb_Detect" />
+
+    <ImageView
+        android:id="@+id/imglogo_txt"
+        android:layout_width="324dp"
+        android:layout_height="134dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.048"
+        app:srcCompat="@drawable/logo_text" />
+
+    <ImageView
+        android:id="@+id/splash_screen"
+        android:layout_width="432dp"
+        android:layout_height="463dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.523"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.694"
+        app:srcCompat="@drawable/splash_screen" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="258dp"
+        android:layout_height="58dp"
+        android:gravity="center"
+        android:text="“Project Helping Hands” for detecting the hand
+signs or body language of the user
+and translating it into text."
+        android:textColor="#000"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.213
+" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

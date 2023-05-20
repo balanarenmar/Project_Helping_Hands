@@ -29,7 +29,7 @@ class MenuScreen : AppCompatActivity()  {
         /*ClassesScreen*/
         val models = findViewById<Button>(R.id.class_Gestures)
         models.setOnClickListener {
-            val intent = Intent (this, ClassesAlphabet::class.java)
+            val intent = Intent (this, ClassesNumber::class.java)
             intent.addFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT)
             startActivity(intent)
         }

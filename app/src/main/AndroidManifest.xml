@@ -16,15 +16,21 @@
         android:taskAffinity=""
         tools:ignore="AllowBackup">
         <activity
+            android:name=".MainMenu"
+            android:exported="false"
+            android:parentActivityName=".MainMenu"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+
+        <activity
             android:name=".MainActivity"
             android:clearTaskOnLaunch="true"
             android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize"
             android:exported="true"
             android:icon="@mipmap/ic_launcher"
-            android:roundIcon="@mipmap/ic_launcher_round"
             android:parentActivityName=".MenuScreen"
             android:resizeableActivity="true"
             android:rotationAnimation="seamless"
+            android:roundIcon="@mipmap/ic_launcher_round"
             android:theme="@style/AppTheme"
             tools:targetApi="O">
 
@@ -37,6 +43,7 @@
             </intent-filter>
             -->
 
+
             <!-- Declare notch support -->
             <meta-data
                 android:name="android.notch_support"
@@ -48,72 +55,62 @@
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".ClassesScreen"
-            android:exported="true"
-            android:parentActivityName=".ClassesScreen"
-            android:theme="@style/Theme.Affirmations">
-            <!--android:theme="@style/Theme.AppCompat.Light.NoActionBar">-->
-            <!--android:theme="@style/Theme.Affirmations"> -->
-        </activity>
+
         <activity
             android:name=".ClassesAlphabet"
             android:exported="true"
-            android:parentActivityName=".ClassesScreen"
-            android:theme="@style/Theme.Affirmations"
-            android:label="ASL Alphabet">
-            <!--android:theme="@style/Theme.AppCompat.Light.NoActionBar">-->
-            <!--android:theme="@style/Theme.Affirmations"> -->
+            android:label="ASL Alphabet"
+            android:parentActivityName=".MainMenu"
+            android:theme="@style/Theme.Affirmations">
+
+            <!-- android:theme="@style/Theme.AppCompat.Light.NoActionBar"> -->
+            <!-- android:theme="@style/Theme.Affirmations"> -->
         </activity>
         <activity
             android:name=".ClassesGame"
             android:exported="true"
-            android:parentActivityName=".ClassesScreen"
-            android:theme="@style/Theme.Affirmations"
-            android:label="Rochambeau">
+            android:label="Rochambeau"
+            android:parentActivityName=".MainMenu"
+            android:theme="@style/Theme.Affirmations">
 
-            <!--android:theme="@style/Theme.AppCompat.Light.NoActionBar">-->
-            <!--android:theme="@style/Theme.Affirmations"> -->
+            <!-- android:theme="@style/Theme.AppCompat.Light.NoActionBar"> -->
+            <!-- android:theme="@style/Theme.Affirmations"> -->
         </activity>
         <activity
             android:name=".ClassesNumber"
             android:exported="true"
-            android:parentActivityName=".ClassesScreen"
-            android:theme="@style/Theme.Affirmations"
-            android:label="ASL Numbers">
-            <!--android:theme="@style/Theme.AppCompat.Light.NoActionBar">-->
-            <!--android:theme="@style/Theme.Affirmations"> -->
-        </activity>
+            android:label="ASL Numbers"
+            android:parentActivityName=".MainMenu"
+            android:theme="@style/Theme.Affirmations">
 
+            <!-- android:theme="@style/Theme.AppCompat.Light.NoActionBar"> -->
+            <!-- android:theme="@style/Theme.Affirmations"> -->
+        </activity>
         <activity
             android:name=".ClassesPhrase"
             android:exported="true"
-            android:parentActivityName=".ClassesScreen"
-            android:theme="@style/Theme.Affirmations"
-            android:label="ASL Common Phrases">
-            <!--android:theme="@style/Theme.AppCompat.Light.NoActionBar">  "@style/Theme.Affirmations" -->
-            <!--android:theme="@style/Theme.Affirmations"> -->
+            android:label="ASL Common Phrases"
+            android:parentActivityName=".MainMenu"
+            android:theme="@style/Theme.Affirmations">
+
+            <!-- android:theme="@style/Theme.AppCompat.Light.NoActionBar">  "@style/Theme.Affirmations" -->
+            <!-- android:theme="@style/Theme.Affirmations"> -->
         </activity>
-
-
-
-
         <activity
             android:name=".MenuScreen"
             android:exported="true"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
-            android:parentActivityName=".MenuScreen" >
-        </activity>
-
+            android:parentActivityName=".MenuScreen"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"></activity>
         <activity
             android:name=".ClassTabs"
             android:exported="true"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
-            android:parentActivityName=".MenuScreen" >
-        </activity>
+            android:parentActivityName=".MenuScreen"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"></activity>
+
 
     </application>
 

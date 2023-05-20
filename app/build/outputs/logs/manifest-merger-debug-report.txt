@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:2:1-120:12
-INJECTED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:2:1-120:12
-INJECTED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:2:1-120:12
-INJECTED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:2:1-120:12
+ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12
+INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12
+INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12
+INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12
 MERGED from [androidx.databinding:databinding-adapters:7.1.2] C:\Users\USER\.gradle\caches\transforms-3\e2098660f1c54bbdbd023ed8ee5f52dd\transformed\databinding-adapters-7.1.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-ktx:7.1.2] C:\Users\USER\.gradle\caches\transforms-3\196b4bce8324660010c79f32cbbf5722\transformed\jetified-databinding-ktx-7.1.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:7.1.2] C:\Users\USER\.gradle\caches\transforms-3\a2b338546291e3d2cfafee6c7f15a0e2\transformed\databinding-runtime-7.1.2\AndroidManifest.xml:17:1-24:12
@@ -84,41 +84,41 @@ MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.0] C:\Users\USER\.grad
 MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.0] C:\Users\USER\.gradle\caches\transforms-3\6c374d4d5ed6fbb6a0bbe9aef8aff879\transformed\jetified-tensorflow-lite-support-api-0.4.0\AndroidManifest.xml:2:1-5:12
 MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] C:\Users\USER\.gradle\caches\transforms-3\742f95f5d06dcb16c53564dc0cea9272\transformed\jetified-tensorflow-lite-api-2.8.0\AndroidManifest.xml:2:1-12:12
 MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\USER\.gradle\caches\transforms-3\4421272eac0e0370569dbc64516c7924\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
-INJECTED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:2:1-120:12
-INJECTED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:2:1-120:12
-INJECTED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12
+INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12
+INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12
 	package
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:5:5-59
-		INJECTED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:5:5-59
+		INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:2:1-120:12
-		INJECTED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12
+		INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:4:5-51
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:4:5-51
 	xmlns:dist
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:3:5-61
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:3:5-61
 	android:versionCode
-		INJECTED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:2:1-120:12
-		INJECTED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12
+		INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:11-69
 dist:module
-ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:7:5-40
+ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:7:5-40
 	dist:instant
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:7:18-37
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:7:18-37
 uses-feature#android.hardware.camera
-ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:8:5-60
+ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:8:5-60
 	android:name
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:8:19-57
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:8:19-57
 uses-permission#android.permission.CAMERA
-ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:9:5-65
+ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:9:5-65
 	android:name
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:9:22-62
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:9:22-62
 application
-ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:11:5-118:19
+ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:11:5-115:19
 MERGED from [androidx.window:window:1.0.0-alpha09] C:\Users\USER\.gradle\caches\transforms-3\a8de75245e5900cbaae160c8381d134e\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-alpha09] C:\Users\USER\.gradle\caches\transforms-3\a8de75245e5900cbaae160c8381d134e\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:24:5-31:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\USER\.gradle\caches\transforms-3\305ce24f1abb8e171ff1b97293ef6855\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
@@ -154,147 +154,147 @@ MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\USER\.gradle\ca
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] C:\Users\USER\.gradle\caches\transforms-3\5a87cf4110f68e1cf82394b1fba8462d\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:14:9-41
 	tools:ignore
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:17:9-35
 	android:roundIcon
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:15:9-54
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:15:9-54
 	android:icon
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:13:9-43
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:12:9-35
 	android:taskAffinity
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:16:9-32
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:16:9-32
+activity#org.tensorflow.lite.examples.objectdetection.MainMenu
+ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:18:9-22:71
+	android:parentActivityName
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:21:13-51
+	android:exported
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:20:13-37
+	android:theme
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:22:13-69
+	android:name
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:19:13-37
 activity#org.tensorflow.lite.examples.objectdetection.MainActivity
-ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:18:9-44:20
+ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:24:9-51:20
 	android:clearTaskOnLaunch
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:20:13-45
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:26:13-45
 	android:parentActivityName
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:25:13-53
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:30:13-53
 	android:exported
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:22:13-36
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:28:13-36
 	android:resizeableActivity
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:26:13-46
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:31:13-46
 	android:roundIcon
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:24:13-58
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:33:13-58
 	android:rotationAnimation
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:27:13-49
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:32:13-49
 	android:configChanges
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:21:13-91
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:27:13-91
 	tools:targetApi
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:29:13-32
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:35:13-32
 	android:icon
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:23:13-47
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:29:13-47
 	android:theme
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:28:13-44
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:34:13-44
 	android:name
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:19:13-41
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:25:13-41
 meta-data#android.notch_support
-ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:41:13-43:40
+ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:48:13-50:40
 	android:value
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:43:17-37
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:50:17-37
 	android:name
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:42:17-53
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:49:17-53
 activity#org.tensorflow.lite.examples.objectdetection.SplashScreen
-ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:45:9-53:20
+ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:52:9-61:20
 	android:exported
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:47:13-36
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:54:13-36
 	android:theme
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:48:13-69
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:55:13-69
 	android:name
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:46:13-41
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:53:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:49:13-52:29
+ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:56:13-60:29
 action#android.intent.action.MAIN
-ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:50:17-69
+ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:57:17-69
 	android:name
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:50:25-66
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:57:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:51:17-77
+ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:59:17-77
 	android:name
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:51:27-74
-activity#org.tensorflow.lite.examples.objectdetection.ClassesScreen
-ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:54:9-61:20
-	android:parentActivityName
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:57:13-56
-	android:exported
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:56:13-36
-	android:theme
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:58:13-54
-	android:name
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:55:13-42
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:59:27-74
 activity#org.tensorflow.lite.examples.objectdetection.ClassesAlphabet
-ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:62:9-70:20
+ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:63:9-72:20
 	android:parentActivityName
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:65:13-56
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:67:13-51
 	android:label
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:67:13-41
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:66:13-41
 	android:exported
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:64:13-36
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:65:13-36
 	android:theme
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:66:13-54
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:68:13-54
 	android:name
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:63:13-44
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:64:13-44
 activity#org.tensorflow.lite.examples.objectdetection.ClassesGame
-ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:71:9-80:20
+ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:73:9-82:20
 	android:parentActivityName
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:74:13-56
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:77:13-51
 	android:label
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:76:13-39
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:76:13-39
 	android:exported
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:73:13-36
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:75:13-36
 	android:theme
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:75:13-54
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:78:13-54
 	android:name
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:72:13-40
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:74:13-40
 activity#org.tensorflow.lite.examples.objectdetection.ClassesNumber
-ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:81:9-89:20
+ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:83:9-92:20
 	android:parentActivityName
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:84:13-56
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:87:13-51
 	android:label
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:86:13-40
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:86:13-40
 	android:exported
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:83:13-36
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:85:13-36
 	android:theme
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:85:13-54
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:88:13-54
 	android:name
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:82:13-42
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:84:13-42
 activity#org.tensorflow.lite.examples.objectdetection.ClassesPhrase
-ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:91:9-99:20
+ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:93:9-102:20
 	android:parentActivityName
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:94:13-56
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:97:13-51
 	android:label
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:96:13-47
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:96:13-47
 	android:exported
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:93:13-36
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:95:13-36
 	android:theme
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:95:13-54
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:98:13-54
 	android:name
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:92:13-42
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:94:13-42
 activity#org.tensorflow.lite.examples.objectdetection.MenuScreen
-ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:104:9-109:20
+ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:103:9-107:81
 	android:parentActivityName
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:108:13-53
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:106:13-53
 	android:exported
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:106:13-36
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:105:13-36
 	android:theme
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:107:13-69
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:107:13-69
 	android:name
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:105:13-39
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:104:13-39
 activity#org.tensorflow.lite.examples.objectdetection.ClassTabs
-ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:111:9-116:20
+ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:108:9-112:81
 	android:parentActivityName
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:115:13-53
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:111:13-53
 	android:exported
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:113:13-36
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:110:13-36
 	android:theme
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:114:13-69
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:112:13-69
 	android:name
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:112:13-38
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:109:13-38
 uses-sdk
-INJECTED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:databinding-adapters:7.1.2] C:\Users\USER\.gradle\caches\transforms-3\e2098660f1c54bbdbd023ed8ee5f52dd\transformed\databinding-adapters-7.1.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:databinding-adapters:7.1.2] C:\Users\USER\.gradle\caches\transforms-3\e2098660f1c54bbdbd023ed8ee5f52dd\transformed\databinding-adapters-7.1.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:databinding-ktx:7.1.2] C:\Users\USER\.gradle\caches\transforms-3\196b4bce8324660010c79f32cbbf5722\transformed\jetified-databinding-ktx-7.1.2\AndroidManifest.xml:20:5-22:41
@@ -451,18 +451,18 @@ MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] C:\Users\USER\.gradle\cac
 MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] C:\Users\USER\.gradle\caches\transforms-3\742f95f5d06dcb16c53564dc0cea9272\transformed\jetified-tensorflow-lite-api-2.8.0\AndroidManifest.xml:7:5-8:41
 MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\USER\.gradle\caches\transforms-3\4421272eac0e0370569dbc64516c7924\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\USER\.gradle\caches\transforms-3\4421272eac0e0370569dbc64516c7924\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:5:5-44
-INJECTED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml
-		MERGED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml
-		MERGED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
+		MERGED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
+		MERGED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.0.0-alpha09] C:\Users\USER\.gradle\caches\transforms-3\a8de75245e5900cbaae160c8381d134e\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:25:9-27:40
 	android:required
@@ -496,11 +496,11 @@ ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\USER\.gradle\c
 	android:name
 		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\USER\.gradle\caches\transforms-3\780dd7349eefd1b7172c3ad2acc3c36e\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:33:17-103
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:2:1-120:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
+IMPLIED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:2:1-120:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
+IMPLIED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from C:\SoftwareEngineering\techizou\examples-masterNEW\object_detection\android\app\src\main\AndroidManifest.xml:2:1-120:12 reason: tensorflow_lite_support.acceleration.configuration requested WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12 reason: tensorflow_lite_support.acceleration.configuration requested WRITE_EXTERNAL_STORAGE
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\USER\.gradle\caches\transforms-3\6bc45f26fe52c9ef5ffcdd5432f82849\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
 	android:authorities

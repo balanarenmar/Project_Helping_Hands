@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\SoftwareEngineering\\techizou\\examples-masterNEW\\object_detection\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sr\\values-sr.xml",
+            "outputFile": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sr\\values-sr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\a0702ecfa6bd95941dcc660c4fe9f95f\\transformed\\jetified-ui-1.1.1\\res\\values-sr\\values-sr.xml",

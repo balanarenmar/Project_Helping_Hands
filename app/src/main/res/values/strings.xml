@@ -44,7 +44,6 @@
     </string-array>
 
     <string-array name="models_spinner_titles">
-        <item>Custom Model</item>
         <item>ASL GESTURES</item>
         <item>ASL ALPHABET</item>
         <item>ASL NUMBERS</item>

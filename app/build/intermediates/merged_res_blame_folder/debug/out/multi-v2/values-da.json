@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\SoftwareEngineering\\techizou\\examples-masterNEW\\object_detection\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-da\\values-da.xml",
+            "outputFile": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-da\\values-da.xml",
             "map": [
                 {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\99eb78a20f1477beb3a99fc6c11932eb\\transformed\\navigation-ui-2.3.5\\res\\values-da\\values-da.xml",

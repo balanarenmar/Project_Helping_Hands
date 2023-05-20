@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingHorizontal="20dp"
+    android:paddingVertical="15dp"
+    android:background="@drawable/btn_bg_white"
+    tools:context=".MainMenu">
+
+    <Button
+        android:id="@+id/vdgb_alpha"
+        android:layout_width="350dp"
+        android:layout_height="66dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/btn_bg_dark_red"
+        android:text="Alphabets"
+        android:textColor="#FFF"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        android:layout_marginVertical="5dp"
+        app:backgroundTint="@null"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toEndOf="@+id/sdb_Detect" />
+
+    <Button
+        android:id="@+id/vdgb_num"
+        android:layout_width="350dp"
+        android:layout_height="66dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/btn_bg_dark_red"
+        android:text="Numbers"
+        android:textColor="#FFF"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        android:layout_marginVertical="5dp"
+        app:backgroundTint="@null"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toEndOf="@+id/sdb_Detect" />
+
+    <Button
+        android:id="@+id/vdgb_prase"
+        android:layout_width="350dp"
+        android:layout_height="66dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/btn_bg_dark_red"
+        android:text="Phrases"
+        android:textColor="#FFF"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        android:layout_marginVertical="5dp"
+        app:backgroundTint="@null"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toEndOf="@+id/sdb_Detect" />
+
+    <Button
+        android:id="@+id/vdgb_rps"
+        android:layout_width="350dp"
+        android:layout_height="66dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/btn_bg_dark_red"
+        android:text="Rock-Paper-Scissor"
+        android:textColor="#FFF"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        android:layout_marginVertical="5dp"
+        app:backgroundTint="@null"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toEndOf="@+id/sdb_Detect" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>

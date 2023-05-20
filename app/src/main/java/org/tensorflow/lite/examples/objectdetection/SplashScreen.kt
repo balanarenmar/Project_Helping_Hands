@@ -1,11 +1,11 @@
 package org.tensorflow.lite.examples.objectdetection
 
-import androidx.appcompat.app.AppCompatActivity
 import android.content.Intent
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
 import android.view.WindowManager
+import androidx.appcompat.app.AppCompatActivity
 
 
 @Suppress("DEPRECATION")
@@ -24,7 +24,7 @@ class SplashScreen : AppCompatActivity() {
         // Purposefully delay screen. argument of Intent is the target activity
 
         Handler(Looper.getMainLooper()).postDelayed({
-            val intent = Intent(this, MenuScreen::class.java)
+            val intent = Intent(this, MainMenu::class.java)
             startActivity(intent)
             finish()
         }, 2000) // delayed time in milliseconds.

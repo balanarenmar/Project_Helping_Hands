@@ -19,11 +19,10 @@ public final class ObjectDetectorHelper {
     public static final int DELEGATE_CPU = 0;
     public static final int DELEGATE_GPU = 1;
     public static final int DELEGATE_NNAPI = 2;
-    public static final int MODEL_CUSTOM = 0;
-    public static final int ASL_GESTURES = 1;
-    public static final int ASL_ALPHABET = 2;
-    public static final int ASL_ALPHABET_V2 = 3;
-    public static final int ASL_ALPHABET_V2_Q = 4;
+    public static final int ASL_PHRASES = 0;
+    public static final int ASL_ALPHABET = 1;
+    public static final int ASL_NUMBERS = 2;
+    public static final int ASL_ROSHAMBEAU = 3;
     
     public ObjectDetectorHelper(float threshold, int numThreads, int maxResults, int currentDelegate, int currentModel, @org.jetbrains.annotations.NotNull()
     android.content.Context context, @org.jetbrains.annotations.Nullable()
@@ -96,7 +95,7 @@ public final class ObjectDetectorHelper {
         java.util.List<org.tensorflow.lite.task.vision.detector.Detection> results, long inferenceTime, int imageHeight, int imageWidth);
     }
     
-    @kotlin.Metadata(mv = {1, 6, 0}, k = 1, d1 = {"\u0000\u0014\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\b\u0002\n\u0002\u0010\b\n\u0002\b\b\b\u0086\u0003\u0018\u00002\u00020\u0001B\u0007\b\u0002\u00a2\u0006\u0002\u0010\u0002R\u000e\u0010\u0003\u001a\u00020\u0004X\u0086T\u00a2\u0006\u0002\n\u0000R\u000e\u0010\u0005\u001a\u00020\u0004X\u0086T\u00a2\u0006\u0002\n\u0000R\u000e\u0010\u0006\u001a\u00020\u0004X\u0086T\u00a2\u0006\u0002\n\u0000R\u000e\u0010\u0007\u001a\u00020\u0004X\u0086T\u00a2\u0006\u0002\n\u0000R\u000e\u0010\b\u001a\u00020\u0004X\u0086T\u00a2\u0006\u0002\n\u0000R\u000e\u0010\t\u001a\u00020\u0004X\u0086T\u00a2\u0006\u0002\n\u0000R\u000e\u0010\n\u001a\u00020\u0004X\u0086T\u00a2\u0006\u0002\n\u0000R\u000e\u0010\u000b\u001a\u00020\u0004X\u0086T\u00a2\u0006\u0002\n\u0000\u00a8\u0006\f"}, d2 = {"Lorg/tensorflow/lite/examples/objectdetection/ObjectDetectorHelper$Companion;", "", "()V", "ASL_ALPHABET", "", "ASL_ALPHABET_V2", "ASL_ALPHABET_V2_Q", "ASL_GESTURES", "DELEGATE_CPU", "DELEGATE_GPU", "DELEGATE_NNAPI", "MODEL_CUSTOM", "app_debug"})
+    @kotlin.Metadata(mv = {1, 6, 0}, k = 1, d1 = {"\u0000\u0014\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\b\u0002\n\u0002\u0010\b\n\u0002\b\u0007\b\u0086\u0003\u0018\u00002\u00020\u0001B\u0007\b\u0002\u00a2\u0006\u0002\u0010\u0002R\u000e\u0010\u0003\u001a\u00020\u0004X\u0086T\u00a2\u0006\u0002\n\u0000R\u000e\u0010\u0005\u001a\u00020\u0004X\u0086T\u00a2\u0006\u0002\n\u0000R\u000e\u0010\u0006\u001a\u00020\u0004X\u0086T\u00a2\u0006\u0002\n\u0000R\u000e\u0010\u0007\u001a\u00020\u0004X\u0086T\u00a2\u0006\u0002\n\u0000R\u000e\u0010\b\u001a\u00020\u0004X\u0086T\u00a2\u0006\u0002\n\u0000R\u000e\u0010\t\u001a\u00020\u0004X\u0086T\u00a2\u0006\u0002\n\u0000R\u000e\u0010\n\u001a\u00020\u0004X\u0086T\u00a2\u0006\u0002\n\u0000\u00a8\u0006\u000b"}, d2 = {"Lorg/tensorflow/lite/examples/objectdetection/ObjectDetectorHelper$Companion;", "", "()V", "ASL_ALPHABET", "", "ASL_NUMBERS", "ASL_PHRASES", "ASL_ROSHAMBEAU", "DELEGATE_CPU", "DELEGATE_GPU", "DELEGATE_NNAPI", "app_debug"})
     public static final class Companion {
         
         private Companion() {
