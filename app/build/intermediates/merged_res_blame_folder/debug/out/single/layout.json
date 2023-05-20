@@ -4,30 +4,6 @@
         "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\layout\\features_no_search_screen.xml"
     },
     {
-        "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_camera.xml",
-        "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\layout\\fragment_camera.xml"
-    },
-    {
-        "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\modal_view_models.xml",
-        "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\layout\\modal_view_models.xml"
-    },
-    {
-        "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\features_screen.xml",
-        "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\layout\\features_screen.xml"
-    },
-    {
-        "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_geeks.xml",
-        "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\layout\\fragment_geeks.xml"
-    },
-    {
-        "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_tabs.xml",
-        "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\layout\\activity_tabs.xml"
-    },
-    {
-        "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_code.xml",
-        "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\layout\\fragment_code.xml"
-    },
-    {
         "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item.xml",
         "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\layout\\list_item.xml"
     },
@@ -48,11 +24,23 @@
         "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\layout\\activity_menu_screen.xml"
     },
     {
-        "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_leet.xml",
-        "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\layout\\fragment_leet.xml"
+        "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_camera.xml",
+        "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\modal_view_models.xml",
+        "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\layout\\modal_view_models.xml"
+    },
+    {
+        "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\features_screen.xml",
+        "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\layout\\features_screen.xml"
     },
     {
         "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_menu.xml",
         "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\layout\\activity_main_menu.xml"
+    },
+    {
+        "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_tabs.xml",
+        "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\layout\\activity_tabs.xml"
     }
 ]
