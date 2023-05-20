@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12
-INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12
-INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12
-INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12
+ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-112:12
 MERGED from [androidx.databinding:databinding-adapters:7.1.2] C:\Users\USER\.gradle\caches\transforms-3\e2098660f1c54bbdbd023ed8ee5f52dd\transformed\databinding-adapters-7.1.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-ktx:7.1.2] C:\Users\USER\.gradle\caches\transforms-3\196b4bce8324660010c79f32cbbf5722\transformed\jetified-databinding-ktx-7.1.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:7.1.2] C:\Users\USER\.gradle\caches\transforms-3\a2b338546291e3d2cfafee6c7f15a0e2\transformed\databinding-runtime-7.1.2\AndroidManifest.xml:17:1-24:12
@@ -84,16 +84,16 @@ MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.0] C:\Users\USER\.grad
 MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.0] C:\Users\USER\.gradle\caches\transforms-3\6c374d4d5ed6fbb6a0bbe9aef8aff879\transformed\jetified-tensorflow-lite-support-api-0.4.0\AndroidManifest.xml:2:1-5:12
 MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] C:\Users\USER\.gradle\caches\transforms-3\742f95f5d06dcb16c53564dc0cea9272\transformed\jetified-tensorflow-lite-api-2.8.0\AndroidManifest.xml:2:1-12:12
 MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\USER\.gradle\caches\transforms-3\4421272eac0e0370569dbc64516c7924\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
-INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12
-INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12
-INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12
+INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-112:12
 	package
 		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:5:5-59
 		INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-112:12
 		INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:4:5-51
@@ -101,7 +101,7 @@ INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\Android
 		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:3:5-61
 	android:versionCode
 		INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12
+		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-112:12
 		INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:11-69
@@ -118,7 +118,7 @@ ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidMan
 	android:name
 		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:9:22-62
 application
-ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:11:5-115:19
+ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:11:5-110:19
 MERGED from [androidx.window:window:1.0.0-alpha09] C:\Users\USER\.gradle\caches\transforms-3\a8de75245e5900cbaae160c8381d134e\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-alpha09] C:\Users\USER\.gradle\caches\transforms-3\a8de75245e5900cbaae160c8381d134e\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:24:5-31:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\USER\.gradle\caches\transforms-3\305ce24f1abb8e171ff1b97293ef6855\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
@@ -281,16 +281,6 @@ ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidMan
 		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:107:13-69
 	android:name
 		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:104:13-39
-activity#org.tensorflow.lite.examples.objectdetection.ClassTabs
-ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:108:9-112:81
-	android:parentActivityName
-		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:111:13-53
-	android:exported
-		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:110:13-36
-	android:theme
-		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:112:13-69
-	android:name
-		ADDED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:109:13-38
 uses-sdk
 INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml
@@ -496,11 +486,11 @@ ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\USER\.gradle\c
 	android:name
 		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\USER\.gradle\caches\transforms-3\780dd7349eefd1b7172c3ad2acc3c36e\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:33:17-103
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
+IMPLIED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-112:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
+IMPLIED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-112:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-117:12 reason: tensorflow_lite_support.acceleration.configuration requested WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\SoftwareEngineering\_HELPING_HANDS\android\app\src\main\AndroidManifest.xml:2:1-112:12 reason: tensorflow_lite_support.acceleration.configuration requested WRITE_EXTERNAL_STORAGE
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\USER\.gradle\caches\transforms-3\6bc45f26fe52c9ef5ffcdd5432f82849\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
 	android:authorities

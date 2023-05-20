@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable_number_0002.jpg.flat",
-        "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\drawable\\number_0002.jpg"
-    },
-    {
         "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_bg_white.xml.flat",
         "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\drawable\\btn_bg_white.xml"
+    },
+    {
+        "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable_number_0002.jpg.flat",
+        "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\drawable\\number_0002.jpg"
     },
     {
         "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable_letter_j.jpg.flat",
@@ -152,10 +152,6 @@
         "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_adaptive_fore.png"
     },
     {
-        "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_leet.xml.flat",
-        "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\layout\\fragment_leet.xml"
-    },
-    {
         "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable_yes.jpg.flat",
         "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\drawable\\yes.jpg"
     },
@@ -170,10 +166,6 @@
     {
         "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable_goodbye.jpg.flat",
         "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\drawable\\goodbye.jpg"
-    },
-    {
-        "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_code.xml.flat",
-        "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\layout\\fragment_code.xml"
     },
     {
         "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_adaptive_fore.png.flat",
@@ -358,10 +350,6 @@
     {
         "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_menu_screen.xml.flat",
         "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\layout\\activity_menu_screen.xml"
-    },
-    {
-        "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_geeks.xml.flat",
-        "source": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\src\\main\\res\\layout\\fragment_geeks.xml"
     },
     {
         "merged": "C:\\SoftwareEngineering\\_HELPING_HANDS\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",

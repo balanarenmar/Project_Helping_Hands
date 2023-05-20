@@ -3147,9 +3147,6 @@ int layout design_text_input_start_icon 0x7f0c0030
 int layout features_no_search_screen 0x7f0c0083
 int layout features_screen 0x7f0c0031
 int layout fragment_camera 0x7f0c0032
-int layout fragment_code 0x7f0c0033
-int layout fragment_geeks 0x7f0c0034
-int layout fragment_leet 0x7f0c0035
 int layout info_bottom_sheet 0x7f0c0036
 int layout list_item 0x7f0c0037
 int layout m3_alert_dialog 0x7f0c0038

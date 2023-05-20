@@ -46,7 +46,7 @@ class MainMenu : AppCompatActivity() {
 
                 val intent = Intent (this, ClassesAlphabet::class.java)
                 intent.addFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT)
-                intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK or Intent.FLAG_ACTIVITY_NEW_TASK)
+                //intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK or Intent.FLAG_ACTIVITY_NEW_TASK)
 
                 startActivity(intent)
             }
@@ -56,7 +56,6 @@ class MainMenu : AppCompatActivity() {
                 val intent = Intent (this, ClassesNumber::class.java)
 
                 intent.addFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT)
-                intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK or Intent.FLAG_ACTIVITY_NEW_TASK)
 
                 startActivity(intent)
             }
@@ -66,7 +65,6 @@ class MainMenu : AppCompatActivity() {
                 val intent = Intent (this, ClassesPhrase::class.java)
 
                 intent.addFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT)
-                intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK or Intent.FLAG_ACTIVITY_NEW_TASK)
 
                 startActivity(intent)
             }
@@ -76,7 +74,6 @@ class MainMenu : AppCompatActivity() {
                 val intent = Intent (this, ClassesGame::class.java)
 
                 intent.addFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT)
-                intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK or Intent.FLAG_ACTIVITY_NEW_TASK)
 
                 startActivity(intent)
             }

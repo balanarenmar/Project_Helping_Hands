@@ -105,11 +105,6 @@
             android:exported="true"
             android:parentActivityName=".MenuScreen"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"></activity>
-        <activity
-            android:name=".ClassTabs"
-            android:exported="true"
-            android:parentActivityName=".MenuScreen"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar"></activity>
 
 
     </application>

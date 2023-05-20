@@ -112,11 +112,6 @@
             android:exported="true"
             android:parentActivityName="org.tensorflow.lite.examples.objectdetection.MenuScreen"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-        <activity
-            android:name="org.tensorflow.lite.examples.objectdetection.ClassTabs"
-            android:exported="true"
-            android:parentActivityName="org.tensorflow.lite.examples.objectdetection.MenuScreen"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
 
         <uses-library
             android:name="androidx.window.extensions"
