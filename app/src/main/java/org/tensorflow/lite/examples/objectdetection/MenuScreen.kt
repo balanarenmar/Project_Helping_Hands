@@ -10,8 +10,8 @@ class MenuScreen : AppCompatActivity()  {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_menu_screen)
-        supportActionBar?.title = "Home";
-        supportActionBar?.subtitle = "sairam";
+        supportActionBar?.title = "Home"
+        supportActionBar?.subtitle = "menu"
 
         val sdbDetect = findViewById<Button>(R.id.sdb_Detect)
         sdbDetect.setOnClickListener {
