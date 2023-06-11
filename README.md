@@ -7,7 +7,7 @@
 
 This project is a requirement for our course Software Engineering 2 (CS 118)
 
-This is a camera app that continuously detects the objects (bounding boxes and classes) in the frames seen by your device's back camera. These instructions walk you through building and running the demo on an Android device.
+This is a mobile application for android that continuously detects the objects (bounding boxes and classes) in the frames seen by your device's back camera. These instructions walk you through building and running the demo on an Android device.
 
 
 
