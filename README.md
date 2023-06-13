@@ -7,7 +7,7 @@
 
 This project is a requirement for our course Software Engineering 2 (CS 118)
 
-This is a mobile application for android that continuously detects the objects (bounding boxes and classes) in the frames seen by your device's back camera. These instructions walk you through building and running the demo on an Android device.
+This is a camera app that continuously detects the objects (bounding boxes and classes) in the frames seen by your device's back camera. These instructions walk you through building and running the demo on an Android device.
 
 
 
@@ -54,7 +54,7 @@ This application should be run on a physical Android device.
 
 * **Rock-Paper-Scissors** -  This model was trained using this publicly available [dataset](https://universe.roboflow.com/yolorockpaperscissors/rockpaperscissors-official) from Roboflow.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Note: All custom-models were trained with transfer learning using the pretrained model [SSD MobileNet V2 FPNLite 320x320](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) trained on the [COCO dataset](http://cocodataset.org/).* The datasets were split with 80% of the images are used for training, and the remaining 20% for testing.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Note: All custom-models were trained with transfer learning using the pretrained model [SSD MobileNet V2 FPNLite 320x320](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) trained on the [COCO dataset](http://cocodataset.org/).* The datasets were split with 80% of the images used for training, and the remaining 20% for testing. This Application was built with the help of [Tensorflow Examples](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android).
 
 <br />
 
@@ -62,6 +62,8 @@ This application should be run on a physical Android device.
 <img src="readme-assets/manual1.png" width="49%"> <img src="readme-assets/manual2.png"  width="49%">
 
 <br />
+
+---
 
 ## **MEMBERS** 
 ##### *BSCS 3-A (2022-2023)* 
