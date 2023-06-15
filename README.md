@@ -54,7 +54,7 @@ This application should be run on a physical Android device.
 
 * **Rock-Paper-Scissors** -  This model was trained using this publicly available [dataset](https://universe.roboflow.com/yolorockpaperscissors/rockpaperscissors-official) from Roboflow.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Note: All custom-models were trained with transfer learning using the pretrained model [SSD MobileNet V2 FPNLite 320x320](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) trained on the [COCO dataset](http://cocodataset.org/).* The datasets were split with 80% of the images used for training, and the remaining 20% for testing. This Application was built with the help of [Tensorflow Examples](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Note: All custom-models were trained with transfer learning using the pretrained model [SSD MobileNet V2 FPNLite 320x320](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) trained on the [COCO dataset](http://cocodataset.org/).* The jupytern notebook used to train the custom-models can be found [here](https://github.com/balanarenmar/Custom-Object-Detection-Notebook). The datasets were split with 80% of the images used for training, and the remaining 20% for testing. This Application was built with the help of [Tensorflow Examples](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android).
 
 <br />
 
